@@ -1,0 +1,151 @@
+,key_0,CustNo,CallNo,Date,Month,AudioSent,TextSent,TextSentNum,Consignee,Product,longitude,latitude,Transcript,Words
+0,0,1,0,2020-06-26,06,Negative,Positive,0.4671733171092308,Commercial,2DA,-73.89125,33.03699,Where is my package?,prompt efficient useful
+1,1,4,1,2020-04-10,04,Negative,Neutral,-0.6607528886458314,Export,Ground,120.5875,40.81,The driver trampled my flowers.,nice
+2,2,3,2,2020-04-07,04,Positive,Negative,-1.7328030997190493,Urban Residential,Ground,-91.73625,55.39485,No one came to pick up my packages.,angry
+3,3,6,3,2020-05-20,05,Positive,Negative,1.0020510178586153,Export,1DA,113.82465,44.92801,I need to expedite a shipment.,late
+4,4,6,4,2020-04-11,04,Positive,Neutral,-0.6523073541941863,Rural Residential,1DA,-103.42897,47.30997,Will the driver be wearing a mask?,helpful
+5,5,2,5,2020-04-02,04,Positive,Neutral,1.223321394596727,Commercial,Ground,-116.21677,49.13645,The driver was so nice to me and carried the big diaper boxes up the outside stairs so my baby wouldn't wake up.,okay
+6,6,5,6,2020-05-26,05,Positive,Negative,-1.8008648510958807,Commercial,2DA,117.4831,-7.51611,Where is my package?,arrived
+7,7,3,7,2020-04-07,04,Neutral,Positive,0.5641158534989702,Urban Residential,1DA,104.09701,27.09978,The driver trampled my flowers.,damaged
+8,8,1,8,2020-06-20,06,Positive,Positive,1.6134421721406254,Export,Ground,35.96944,12.97389,No one came to pick up my packages.,package
+9,9,1,9,2020-06-24,06,Negative,Positive,-0.15530521107541617,Urban Residential,Ground,-52.35558,44.89784,I need to expedite a shipment.,solved
+10,10,7,10,2020-06-29,06,Positive,Neutral,-0.9753175120256272,Urban Residential,Ground,-86.99666,-22.53722,Will the driver be wearing a mask?,need
+11,11,1,11,2020-04-11,04,Neutral,Negative,0.12377998697429488,Urban Residential,1DA,2.18967,48.77644,The driver was so nice to me and carried the big diaper boxes up the outside stairs so my baby wouldn't wake up.,okay
+12,12,4,12,2020-02-21,02,Neutral,Negative,1.2805646094613605,Urban Residential,1DA,-0.36053,42.8139,Where is my package?,fine
+13,13,2,13,2020-06-10,06,Negative,Neutral,-0.4079788303222201,Commercial,1DA,78.27539,7.57944,The driver trampled my flowers.,repeatedly
+14,14,1,14,2020-05-18,05,Positive,Positive,-0.2457980642183694,Rural Residential,1DA,81.54855,18.20854,No one came to pick up my packages.,prompt efficient useful
+15,15,5,15,2020-04-01,04,Negative,Positive,0.0348048409920594,Commercial,1DA,75.96976,34.14251,I need to expedite a shipment.,nice
+16,16,1,16,2020-04-01,04,Negative,Negative,1.439651386295331,Urban Residential,Ground,-104.22884,34.56861,Will the driver be wearing a mask?,angry
+17,17,1,17,2020-06-24,06,Neutral,Neutral,0.9624712887749942,Rural Residential,2DA,72.54064,26.18924,The driver was so nice to me and carried the big diaper boxes up the outside stairs so my baby wouldn't wake up.,late
+18,18,2,18,2020-06-23,06,Positive,Negative,-0.2836566724837919,Urban Residential,1DA,114.10479,45.79377,Where is my package?,helpful
+19,19,3,19,2020-03-27,03,Negative,Positive,-1.0238223007057592,Export,1DA,75.96976,50.11861,The driver trampled my flowers.,okay
+20,20,2,20,2020-03-14,03,Neutral,Neutral,0.42550434900548634,Urban Residential,2DA,18.84,39.72943,No one came to pick up my packages.,arrived
+21,21,1,21,2020-06-09,06,Positive,Positive,-1.1460527118995598,Commercial,1DA,-46.99583,44.99012,I need to expedite a shipment.,damaged
+22,22,3,22,2020-04-23,04,Positive,Negative,-0.8267426887224899,Rural Residential,1DA,12.16179,32.50611,Will the driver be wearing a mask?,package
+23,23,7,23,2020-02-16,02,Neutral,Neutral,-0.6061725040609991,Export,Ground,45.36561,39.43534,The driver was so nice to me and carried the big diaper boxes up the outside stairs so my baby wouldn't wake up.,solved
+24,24,2,24,2020-05-14,05,Neutral,Neutral,-0.08474648903177302,Urban Residential,2DA,-71.19901,28.15112,Where is my package?,need
+25,25,7,25,2020-03-01,03,Negative,Negative,1.5878442487117266,Urban Residential,2DA,-88.3162,41.24255,The driver trampled my flowers.,okay
+26,26,1,26,2020-02-22,02,Positive,Positive,-0.1283006064769302,Rural Residential,1DA,109.05389,-37.32167,No one came to pick up my packages.,fine
+27,27,7,27,2020-02-15,02,Neutral,Positive,-0.8648501446840976,Urban Residential,Ground,5.2875,-32.05251,I need to expedite a shipment.,repeatedly
+28,28,6,28,2020-06-10,06,Neutral,Negative,-0.021999971879826226,Export,Ground,114.51667,25.75728,Will the driver be wearing a mask?,prompt efficient useful
+29,29,7,29,2020-06-28,06,Negative,Negative,0.8484889330733612,Commercial,Ground,68.75915,15.46063,The driver was so nice to me and carried the big diaper boxes up the outside stairs so my baby wouldn't wake up.,nice
+30,30,1,30,2020-06-12,06,Positive,Positive,-1.177159888733107,Export,Ground,27.06365,13.44581,Where is my package?,angry
+31,31,7,31,2020-06-21,06,Negative,Negative,1.6988631973992998,Commercial,1DA,115.70111,50.71229,The driver trampled my flowers.,late
+32,32,3,32,2020-05-17,05,Positive,Neutral,1.9563638107596104,Rural Residential,Ground,150.99292,25.75728,No one came to pick up my packages.,helpful
+33,33,7,33,2020-06-11,06,Negative,Neutral,0.5808368745391426,Export,1DA,-87.88754,33.4425,I need to expedite a shipment.,okay
+34,34,2,34,2020-03-30,03,Neutral,Positive,-0.2191259188806279,Rural Residential,2DA,16.50104,-25.42944,Will the driver be wearing a mask?,arrived
+35,35,7,35,2020-05-25,05,Neutral,Positive,-1.956745901451929,Commercial,2DA,124.3697,29.38242,The driver was so nice to me and carried the big diaper boxes up the outside stairs so my baby wouldn't wake up.,damaged
+36,36,4,36,2020-06-20,06,Negative,Neutral,0.33879703316549786,Export,Ground,-89.66123,45.39402,Where is my package?,package
+37,37,7,37,2020-05-24,05,Negative,Positive,0.7948895680396759,Rural Residential,2DA,-48.29694,37.30553,The driver trampled my flowers.,solved
+38,38,8,38,2020-02-11,02,Positive,Positive,-0.739736837039167,Urban Residential,Ground,-87.71255,10.10649,No one came to pick up my packages.,need
+39,39,3,39,2020-06-03,06,Neutral,Neutral,-0.45298949556043566,Urban Residential,2DA,-0.33525,34.81667,I need to expedite a shipment.,okay
+40,40,3,40,2020-03-02,03,Neutral,Negative,-0.148108444489408,Commercial,1DA,-116.37697,17.06542,Will the driver be wearing a mask?,fine
+41,41,6,41,2020-05-26,05,Positive,Positive,-0.3067467850821815,Urban Residential,1DA,-2.31938,42.64685,The driver was so nice to me and carried the big diaper boxes up the outside stairs so my baby wouldn't wake up.,repeatedly
+42,42,7,42,2020-04-14,04,Negative,Positive,-0.130479161842244,Rural Residential,Ground,4.21372,40.66482,Where is my package?,prompt efficient useful
+43,43,5,43,2020-02-23,02,Positive,Positive,-0.34260653002080765,Commercial,2DA,23.225,-21.42917,The driver trampled my flowers.,nice
+44,44,6,44,2020-05-05,05,Negative,Positive,-1.1646808955511463,Export,2DA,79.82979,41.47892,No one came to pick up my packages.,angry
+45,45,3,45,2020-05-19,05,Neutral,Negative,-0.7585899600352306,Export,1DA,10.98461,43.78956,I need to expedite a shipment.,late
+46,46,5,46,2020-02-27,02,Neutral,Positive,-1.007987013826372,Export,2DA,60.8019,7.6,Will the driver be wearing a mask?,helpful
+47,47,4,47,2020-02-16,02,Positive,Neutral,0.2008806577987966,Export,2DA,5.55575,29.21399,The driver was so nice to me and carried the big diaper boxes up the outside stairs so my baby wouldn't wake up.,okay
+48,48,6,48,2020-06-09,06,Negative,Positive,0.32810383445902885,Export,2DA,38.16694,5.84752,Where is my package?,arrived
+49,49,4,49,2020-06-06,06,Positive,Positive,-1.331335728630137,Commercial,2DA,23.225,43.2907,The driver trampled my flowers.,damaged
+50,50,5,50,2020-02-06,02,Neutral,Positive,-1.309576281670052,Urban Residential,2DA,1.33467,36,No one came to pick up my packages.,package
+51,51,3,51,2020-07-01,07,Neutral,Neutral,0.16981560869070006,Rural Residential,1DA,17.10558,14.0823,I need to expedite a shipment.,solved
+52,52,8,52,2020-03-12,03,Positive,Neutral,0.31080128852108896,Urban Residential,Ground,4.86667,36.20829,Will the driver be wearing a mask?,need
+53,53,6,53,2020-04-02,04,Positive,Positive,-0.006382208188962714,Urban Residential,2DA,-81.77285,42.50729,The driver was so nice to me and carried the big diaper boxes up the outside stairs so my baby wouldn't wake up.,okay
+54,54,6,54,2020-03-08,03,Negative,Positive,-0.5569942791177461,Export,1DA,14.72443,42.97086,Where is my package?,fine
+55,55,6,55,2020-04-18,04,Positive,Neutral,-0.3543702258595123,Export,2DA,-6.03731,13.65805,The driver trampled my flowers.,repeatedly
+56,56,3,56,2020-05-25,05,Neutral,Positive,-1.8541383848521416,Export,1DA,-73.47429,53.46506,No one came to pick up my packages.,prompt efficient useful
+57,57,4,57,2020-05-10,05,Negative,Negative,0.13256204985935574,Urban Residential,1DA,34.8732,41.0051,I need to expedite a shipment.,nice
+58,58,2,58,2020-05-12,05,Neutral,Neutral,1.2628193984850464,Commercial,Ground,32.86389,51.40148,Will the driver be wearing a mask?,angry
+59,59,4,59,2020-02-15,02,Negative,Positive,-0.23517527012910958,Rural Residential,1DA,33.2525,27.71809,The driver was so nice to me and carried the big diaper boxes up the outside stairs so my baby wouldn't wake up.,late
+60,60,7,60,2020-06-05,06,Positive,Neutral,-0.5020948988112991,Export,1DA,-3.52751,5.6561,Where is my package?,helpful
+61,61,4,61,2020-04-25,04,Positive,Positive,-0.41164266064841665,Commercial,Ground,46.58333,-33.38056,The driver trampled my flowers.,okay
+62,62,8,62,2020-02-14,02,Neutral,Negative,0.4173286290276845,Export,1DA,-88.42814,56.9083,No one came to pick up my packages.,arrived
+63,63,7,63,2020-05-12,05,Positive,Positive,-1.1308410663152177,Rural Residential,Ground,-117.14392,-3.74912,I need to expedite a shipment.,damaged
+64,64,3,64,2020-03-12,03,Negative,Positive,-0.07917730228515293,Rural Residential,2DA,122.20488,28.88162,Will the driver be wearing a mask?,package
+65,65,5,65,2020-06-03,06,Neutral,Neutral,-1.0745122587447173,Commercial,1DA,15.00835,35.06667,The driver was so nice to me and carried the big diaper boxes up the outside stairs so my baby wouldn't wake up.,solved
+66,66,4,66,2020-04-11,04,Negative,Negative,1.2831088019845829,Export,2DA,60.70278,36,Where is my package?,need
+67,67,7,67,2020-05-26,05,Positive,Neutral,0.028774663887196527,Export,Ground,-73.26022,42.8139,The driver trampled my flowers.,okay
+68,68,2,68,2020-05-12,05,Neutral,Positive,-1.706736501380422,Rural Residential,2DA,120.57224,43.86682,No one came to pick up my packages.,fine
+69,69,2,69,2020-03-12,03,Positive,Negative,0.916850877499646,Rural Residential,Ground,24.04142,55.39485,I need to expedite a shipment.,repeatedly
+70,70,4,70,2020-03-21,03,Negative,Negative,0.5408017738240058,Commercial,2DA,-2.16,50.82882,Will the driver be wearing a mask?,prompt efficient useful
+71,71,3,71,2020-07-01,07,Negative,Positive,-0.020623764518968364,Urban Residential,Ground,13.39954,36.20389,The driver was so nice to me and carried the big diaper boxes up the outside stairs so my baby wouldn't wake up.,nice
+72,72,6,72,2020-04-10,04,Neutral,Positive,1.7367999546778379,Urban Residential,1DA,-7.95,24.41288,Where is my package?,angry
+73,73,7,73,2020-04-18,04,Negative,Positive,-0.4080671838737335,Urban Residential,1DA,-0.91979,33.72255,The driver trampled my flowers.,late
+74,74,8,74,2020-02-27,02,Positive,Neutral,0.5113575588308714,Urban Residential,2DA,-97.90308,23.1959,No one came to pick up my packages.,helpful
+75,75,1,75,2020-06-24,06,Negative,Positive,0.6681742382111084,Urban Residential,2DA,150.60036,45.53929,I need to expedite a shipment.,okay
+76,76,6,76,2020-05-10,05,Neutral,Negative,1.7878315370226385,Urban Residential,Ground,122.74754,42.97086,Will the driver be wearing a mask?,arrived
+77,77,2,77,2020-06-27,06,Neutral,Positive,0.41080369914384324,Rural Residential,2DA,19.27498,42.93369,The driver was so nice to me and carried the big diaper boxes up the outside stairs so my baby wouldn't wake up.,damaged
+78,78,5,78,2020-04-03,04,Positive,Neutral,-0.25889084125438205,Urban Residential,2DA,1.53414,28.98002,Where is my package?,package
+79,79,1,79,2020-05-05,05,Neutral,Positive,-0.029119257322362365,Export,1DA,74.83554,-13.7804,The driver trampled my flowers.,solved
+80,80,2,80,2020-06-25,06,Negative,Neutral,1.9878039438532595,Urban Residential,Ground,-0.2,44.31771,No one came to pick up my packages.,need
+81,81,2,81,2020-06-24,06,Neutral,Positive,-0.7400396345276927,Export,1DA,-87.65644,10.31672,I need to expedite a shipment.,okay
+82,82,1,82,2020-05-27,05,Negative,Positive,0.3597354421492271,Commercial,2DA,146.05093,50.11861,Will the driver be wearing a mask?,fine
+83,83,3,83,2020-05-13,05,Positive,Negative,-0.23106377202229156,Commercial,2DA,-80.22588,18.20854,The driver was so nice to me and carried the big diaper boxes up the outside stairs so my baby wouldn't wake up.,repeatedly
+84,84,3,84,2020-02-18,02,Positive,Positive,1.0044930677584576,Commercial,1DA,-117.54866,51.26,Where is my package?,prompt efficient useful
+85,85,4,85,2020-03-28,03,Neutral,Neutral,0.28304355263860986,Urban Residential,1DA,2.35739,33.43443,The driver trampled my flowers.,nice
+86,86,2,86,2020-02-15,02,Positive,Neutral,0.1273932833950786,Export,Ground,111.50861,11.12018,No one came to pick up my packages.,angry
+87,87,7,87,2020-04-14,04,Neutral,Negative,-0.3575540689470152,Rural Residential,2DA,135.21667,25.92127,I need to expedite a shipment.,late
+88,88,8,88,2020-03-04,03,Positive,Positive,-1.1144566607518993,Commercial,2DA,145.18333,45.40008,Will the driver be wearing a mask?,helpful
+89,89,8,89,2020-04-13,04,Neutral,Negative,2.3035482369045135,Urban Residential,Ground,-35.03333,44.99012,The driver was so nice to me and carried the big diaper boxes up the outside stairs so my baby wouldn't wake up.,okay
+90,90,1,90,2020-05-11,05,Positive,Positive,-0.38711712725596875,Commercial,2DA,37.3825,28.90054,Where is my package?,arrived
+91,91,7,91,2020-03-26,03,Neutral,Positive,-0.039627318603024625,Commercial,1DA,-56.52361,14.14989,The driver trampled my flowers.,damaged
+92,92,1,92,2020-05-14,05,Neutral,Positive,-0.8069701747154819,Rural Residential,1DA,-0.76773,22.49396,No one came to pick up my packages.,package
+93,93,4,93,2020-06-28,06,Neutral,Neutral,2.0448881948268234,Export,Ground,-72.97261,36.65,I need to expedite a shipment.,solved
+94,94,6,94,2020-04-15,04,Negative,Negative,-0.19063849616624587,Rural Residential,2DA,55.4504,43.61062,Will the driver be wearing a mask?,need
+95,95,7,95,2020-06-02,06,Neutral,Neutral,-0.3205940352154247,Urban Residential,2DA,-117.70755,-5.41667,The driver was so nice to me and carried the big diaper boxes up the outside stairs so my baby wouldn't wake up.,okay
+96,96,5,96,2020-05-10,05,Positive,Negative,0.6145999408361242,Export,1DA,34.33825,22.49396,Where is my package?,fine
+97,97,4,97,2020-02-23,02,Neutral,Negative,-1.4896532451387452,Commercial,1DA,47.1192,58.23583,The driver trampled my flowers.,repeatedly
+98,98,5,98,2020-06-14,06,Neutral,Negative,-0.1354037539873789,Rural Residential,1DA,-73.95097,38.06084,No one came to pick up my packages.,prompt efficient forthright
+99,99,2,99,2020-06-22,06,Negative,Negative,-0.889123419812446,Urban Residential,Ground,67.84222,35.85,I need to expedite a shipment.,nice awkward
+100,100,8,100,2020-02-05,02,Negative,Positive,-0.4063372486953741,Urban Residential,2DA,46.83187,25.67927,Will the driver be wearing a mask?,angry mad
+101,101,4,101,2020-03-18,03,Positive,Negative,-0.6504432572823065,Urban Residential,2DA,-118.03917,20.22816,The driver was so nice to me and carried the big diaper boxes up the outside stairs so my baby wouldn't wake up.,late
+102,102,2,102,2020-05-17,05,Negative,Neutral,0.5093062307828473,Rural Residential,Ground,35.23388,40.72586,Where is my package?,helpful
+103,103,8,103,2020-06-03,06,Neutral,Negative,0.9121673323467588,Export,1DA,146.05093,48.8449,The driver trampled my flowers.,okay
+104,104,5,104,2020-02-15,02,Neutral,Positive,-0.2839010782452003,Urban Residential,1DA,11.5,24.96334,No one came to pick up my packages.,arrived
+105,105,8,105,2020-02-29,02,Neutral,Negative,0.35086640460911095,Rural Residential,Ground,85.94001,37.65639,I need to expedite a shipment.,damaged #@$& broken
+106,106,7,106,2020-03-25,03,Negative,Negative,-0.24537495315132118,Export,Ground,-71.19901,31.76212,Will the driver be wearing a mask?,package
+107,107,4,107,2020-04-17,04,Negative,Neutral,0.24237255998608528,Export,Ground,17.22635,43.4125,The driver was so nice to me and carried the big diaper boxes up the outside stairs so my baby wouldn't wake up.,solved discount
+108,108,6,108,2020-05-02,05,Neutral,Negative,-1.0184350755068978,Commercial,Ground,13.28702,36.64852,Where is my package?,need
+109,109,2,109,2020-06-17,06,Negative,Negative,-0.253917880697515,Urban Residential,2DA,-86.58208,24.41288,The driver trampled my flowers.,okay
+110,110,4,110,2020-02-11,02,Neutral,Positive,-1.9993601906135903,Rural Residential,1DA,128.63083,41.27194,No one came to pick up my packages.,fine efficient
+111,111,3,111,2020-06-11,06,Positive,Neutral,-0.09476670154302125,Export,2DA,-119.48568,47.64995,I need to expedite a shipment.,repeatedly often worthwhile
+112,112,7,112,2020-02-26,02,Neutral,Negative,-1.1628095635381035,Commercial,Ground,-87.45476,40.72371,Will the driver be wearing a mask?,prompt efficient useful
+113,113,2,113,2020-04-16,04,Negative,Negative,-1.987726633722124,Urban Residential,1DA,-73.0515,32.54044,The driver was so nice to me and carried the big diaper boxes up the outside stairs so my baby wouldn't wake up.,nice
+114,114,3,114,2020-02-10,02,Neutral,Neutral,-0.002953296364914559,Export,1DA,-87.45476,22.83957,Where is my package?,angry
+115,115,1,115,2020-06-06,06,Positive,Positive,0.3061363408800962,Commercial,2DA,10.18527,48.28259,The driver trampled my flowers.,late
+116,116,4,116,2020-02-10,02,Negative,Negative,-0.8237791845406234,Export,2DA,103.61667,9.89206,No one came to pick up my packages.,helpful
+117,117,1,117,2020-05-22,05,Negative,Neutral,-0.7004502028440315,Export,2DA,-156.47432,30.46907,I need to expedite a shipment.,okay
+118,118,2,118,2020-02-04,02,Neutral,Positive,-0.36867239459250084,Commercial,1DA,4.82313,40.70995,Will the driver be wearing a mask?,arrived
+119,119,3,119,2020-06-19,06,Neutral,Negative,1.0287271354376524,Commercial,1DA,73.38333,47.05,The driver was so nice to me and carried the big diaper boxes up the outside stairs so my baby wouldn't wake up.,damaged
+120,120,6,120,2020-04-13,04,Neutral,Negative,1.195148671013885,Urban Residential,Ground,-87.66561,16.68911,Where is my package?,package
+121,121,4,121,2020-04-27,04,Negative,Negative,-0.8102419864243197,Export,2DA,18.30056,40.87363,The driver trampled my flowers.,solved
+122,122,5,122,2020-06-30,06,Negative,Positive,0.05448303806639072,Export,Ground,-91.77127,38.55632,No one came to pick up my packages.,need
+123,123,7,123,2020-02-20,02,Neutral,Negative,-0.4653520454558185,Export,Ground,-58.44417,43.54072,I need to expedite a shipment.,okay
+124,124,2,124,2020-05-07,05,Neutral,Positive,-0.1445473897902739,Export,1DA,-41.25528,53.63333,Will the driver be wearing a mask?,fine
+125,125,6,125,2020-03-27,03,Positive,Neutral,0.26396705064428916,Rural Residential,Ground,-87.88754,61.72744,The driver was so nice to me and carried the big diaper boxes up the outside stairs so my baby wouldn't wake up.,air shipping transport
+126,126,5,126,2020-02-24,02,Negative,Positive,-1.313732069204795,Commercial,2DA,37.49338,-28.44917,Where is my package?,prompt efficient useful
+127,127,6,127,2020-04-30,04,Positive,Negative,-0.16497036771673326,Rural Residential,2DA,-122.39168,9.6531,The driver trampled my flowers.,nice
+128,128,5,128,2020-06-03,06,Negative,Negative,-0.7878558551767185,Commercial,1DA,151.07986,37.60876,No one came to pick up my packages.,angry
+129,129,6,129,2020-04-06,04,Positive,Positive,0.515039257960433,Commercial,1DA,-15.6,13.51825,I need to expedite a shipment.,late
+130,130,7,130,2020-06-08,06,Negative,Negative,1.2540985223807215,Export,Ground,-0.74934,23.1959,Will the driver be wearing a mask?,helpful
+131,131,6,131,2020-03-20,03,Positive,Negative,-1.0453215092460055,Rural Residential,1DA,7.60872,46.75451,The driver was so nice to me and carried the big diaper boxes up the outside stairs so my baby wouldn't wake up.,okay
+132,132,2,132,2020-05-15,05,Positive,Negative,0.30894652659260313,Urban Residential,2DA,-60.1831,57.14369,Where is my package?,arrived
+133,133,4,133,2020-06-08,06,Positive,Neutral,-2.264533755242604,Rural Residential,Ground,-88.81395,24.81757,The driver trampled my flowers.,damaged
+134,134,4,134,2020-04-10,04,Positive,Positive,0.47512825053722,Urban Residential,2DA,-13.68778,9.57046,No one came to pick up my packages.,package
+135,135,8,135,2020-05-04,05,Neutral,Positive,0.218804035738269,Commercial,2DA,5.16108,-8.76194,I need to expedite a shipment.,solved
+136,136,3,136,2020-06-10,06,Positive,Positive,0.37066034733107195,Rural Residential,1DA,-74.26419,7.6,Will the driver be wearing a mask?,need
+137,137,8,137,2020-02-28,02,Positive,Positive,2.488224994006032,Commercial,Ground,-93.08883,34.8825,The driver was so nice to me and carried the big diaper boxes up the outside stairs so my baby wouldn't wake up.,okay
+138,138,2,138,2020-05-27,05,Negative,Positive,1.457874387014678,Urban Residential,1DA,77.40858,20.28527,Where is my package?,fine
+139,139,7,139,2020-04-21,04,Neutral,Neutral,0.10066117065381176,Commercial,1DA,4.52529,39.08367,The driver trampled my flowers.,repeatedly
+140,140,4,140,2020-05-05,05,Neutral,Positive,0.04793510297244873,Urban Residential,1DA,98.19151,40.49748,No one came to pick up my packages.,prompt efficient useful
+141,141,8,141,2020-06-01,06,Positive,Negative,0.8826073305242803,Rural Residential,Ground,122.9666,7.65649,I need to expedite a shipment.,nice
+142,142,6,142,2020-03-17,03,Negative,Positive,-1.2027162969077727,Commercial,Ground,97.01124,57.14369,Will the driver be wearing a mask?,angry
+143,143,2,143,2020-06-13,06,Positive,Neutral,-0.5524111485360891,Commercial,Ground,44.53333,51.40944,The driver was so nice to me and carried the big diaper boxes up the outside stairs so my baby wouldn't wake up.,late
+144,144,2,144,2020-06-23,06,Neutral,Positive,0.7327881676420026,Rural Residential,1DA,-74.07764,43.83125,Where is my package?,helpful
+145,145,2,145,2020-05-29,05,Neutral,Negative,-0.023322073946055996,Urban Residential,1DA,38.66667,53.49389,The driver trampled my flowers.,okay
+146,146,1,146,2020-03-13,03,Neutral,Negative,1.0107632088014875,Rural Residential,2DA,34.75699,12.35275,No one came to pick up my packages.,arrived
+147,147,1,147,2020-05-03,05,Positive,Neutral,0.35138374568555236,Export,2DA,99.95469,26.9423,I need to expedite a shipment.,damaged
+148,148,8,148,2020-02-24,02,Neutral,Negative,0.5554810147194452,Rural Residential,Ground,-69.96533,52.09,Will the driver be wearing a mask?,package
+149,149,3,149,2020-02-04,02,Positive,Neutral,-1.479882043829671,Urban Residential,Ground,-4.83076,55.54028,The driver was so nice to me and carried the big diaper boxes up the outside stairs so my baby wouldn't wake up.,solved
